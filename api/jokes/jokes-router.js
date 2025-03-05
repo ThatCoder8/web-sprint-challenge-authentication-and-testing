@@ -6,7 +6,7 @@ router.get('/', (req, res) => {
   const jokes = [
     {
       id: 1,
-      joke: "Why don't pirates take a shower before they walk the plank? They just wash up on shore."
+      joke: "Did you hear about the guy whose whole left side was cut off? He's all right now."
     },
     {
       id: 2,
